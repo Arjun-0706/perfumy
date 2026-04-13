@@ -4,9 +4,9 @@ function Navbar() {
       <h1>Perfumy</h1>
 
       <ul>
-        <li><a>Home |</a></li>
-        <li><a>Product |</a></li>
-        <li><a>Contact |</a></li>
+        <li><a href="/">Home |</a></li>
+        <li><a href="/">Product |</a></li>
+        <li><a href="/">Contact |</a></li>
         <li>About |</li>
       </ul>
     </nav>
